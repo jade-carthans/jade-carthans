@@ -26,22 +26,6 @@
 
 ---
 
-### 🛠️ Tech & Toolbox
-
-**Languages & Data:**  
-`Java` • `Python` • `SQL` • `KQL` • `HTML` • `CSS` • `Machine Learning` • `LLMs` • `sci_learn`
-
-**Design & Visualization:**  
-`Figma` • `Adobe Creative Suite` • `Power BI` • `Excel` 
-
-**Workflow & Collaboration:**  
-`Azure DevOps` • `Git` • `Cross-functional Teams` • `Stakeholder Presentations`
-
-**Bonus Powers:**  
-🧠 Strategic Thinking • 🎯 User Research • 📊 Data Analysis • ✍🏾 Technical Writing • 💡 Leadership • 📕 Storytelling with Data
-
-
-
 ## 🛠️ Tech & Toolbox
 
 ### 🧑🏾‍💻 Languages & Data
