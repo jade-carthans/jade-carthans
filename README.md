@@ -19,6 +19,7 @@
 
 ### 🔍 Exploring Roles Like:
 - Product Manager
+- UX Engineer
 - Software Engineer
 - UX Designer
 - Data Analyst
